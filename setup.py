@@ -17,6 +17,6 @@ setup(
     keywords=['osint', 'searching', 'scraping'],
     install_requires=[],
     setup_requires=['pytest-runner'],
-    tests_require=['pytest==4.4.1'],
+    tests_require=['pytest==9.0.3'],
     test_suite='tests',
 )
